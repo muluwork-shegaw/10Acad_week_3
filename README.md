@@ -21,6 +21,6 @@ SIR Model: https://www.maa.org/press/periodicals/loci/joma/the-sir-model-for-spr
 
 Bayesian Inference: https://seeing-theory.brown.edu/bayesian-inference/index.html
 
-Data Retreival: https://covid19-inference.readthedocs.io/en/latest/doc/data_retrieval.html
+Data Retreival: https://www.covid19.et/covid-19/Home/DataPresentationByTable
 
-Covid-19 Responses: www.imf.org/en/Topics/imf-and-covid19/Policy-Responses-to-COVID-19
+Covid-19 Responses: https://www.trackethiogov.com/)
